@@ -1,0 +1,7 @@
+com\estudos\Relacionamento\RelacionamentoApplication.class
+com\estudos\Relacionamento\model\Pedido.class
+com\estudos\Relacionamento\model\Contrato.class
+com\estudos\Relacionamento\controller\PedidoController.class
+com\estudos\Relacionamento\repository\PedidoRepository.class
+com\estudos\Relacionamento\repository\ContratoRepository.class
+com\estudos\Relacionamento\controller\ContratoController.class
